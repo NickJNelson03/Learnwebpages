@@ -8,13 +8,13 @@ a {
 }
 
 .Main {
-  margin: auto; 
   color: red;
 }
 
   
 #A {
   width: 400px;
+  margin: 20px;
 }
 
 #B {
