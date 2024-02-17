@@ -7,17 +7,18 @@ a {
   
 }
 
+.Main {
+  margin: auto; 
+  color: red;
+}
+
   
 #A {
-  backgroud-color: blue;
-  margin: auto;
   width: 400px;
 }
 
 #B {
   font-size: 18px;
-  margin: auto;
-  color: red;
 
   
 }
