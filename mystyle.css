@@ -1,19 +1,7 @@
 body {
   background-color: lightgray;
 } 
-
-a {
-  color : blue;
   
-}
-  
-#H {
-  color: purple;
-}
-
-#P {
-  font-size: 18px;
-  marign-left: 80px;
-  margin-right: 80px;
-  border: 15px black;
+#D {
+  margin-left: 40px;
 }
