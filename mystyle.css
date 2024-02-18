@@ -4,10 +4,13 @@ body {
   
 .Main {
   margin-left: 20px;
+  marign-top: 40px;
 }
 
 #MainHeader {
   color: red;
+  font-weight: bold;
+  font-size: 24px;
 
 }
 
