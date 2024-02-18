@@ -18,6 +18,10 @@ body {
   width: 400px;
 }
 
-#Column1 {
+#Columns {
   margin: 70px;
+}
+
+#Column1 {
+  border: 20px solid black;
 }
