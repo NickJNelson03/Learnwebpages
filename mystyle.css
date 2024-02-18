@@ -6,18 +6,13 @@ a {
   color : blue;
   
 }
-
-.Main {
-  color: red;
-}
-
   
-#A {
+#ParagraphA {
   width: 400px;
   margin-left: 20px;
 }
 
-#B {
+#Header {
   font-size: 18px;
   margin-left: 20px;
 
