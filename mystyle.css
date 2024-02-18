@@ -21,10 +21,7 @@ body {
 #Column1 {
   font-size: 30px;
   font-weight: bold;
-  margin-left: 150px
-  margin-right: 1px;
-  margin-top:150px;
-  margin-bottom: 10px;
+  margin: 70px;
 }
 
 #Image1 {
@@ -41,6 +38,10 @@ body {
 }
 
 #List1 {
-  font-size: 23px;
+  font-size: 21px;
   color: light blue;
 } 
+
+Title1 {
+  font-size: 24px;
+}
