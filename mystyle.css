@@ -2,6 +2,16 @@ body {
   background-color: lightgray;
 } 
   
-#H {
+.Main {
   margin-left: 20px;
+}
+
+#Main Header {
+  color: red;
+  font-size: 30px;
+
+}
+
+#Main Paragraph {
+  color: purple;
 }
