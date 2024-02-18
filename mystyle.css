@@ -7,13 +7,10 @@ a {
   
 }
   
-#Paragraph {
-  width: 300px;
+#H {
+  color: purple;
 }
 
-#Header {
-  font-size: 40px;
-  margin-left: 20px;
-
-  
+#P {
+  font-size: 18px;
 }
