@@ -8,10 +8,9 @@ body {
 
 #MainHeader {
   color: red;
-  font-size: 30px;
 
 }
 
 #MainParagraph {
-  color: purple;
+  width: 400px;
 }
