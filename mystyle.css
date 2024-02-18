@@ -19,7 +19,10 @@ body {
 }
 
 .Columns {
-  margin: 70px;
+  margin-right: 85px;
+  margin-top: 85px;
+  margin-bottom: 0px
+  margin-left: 0px;
 }
 
 #Column1 {
