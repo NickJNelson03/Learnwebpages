@@ -17,3 +17,7 @@ body {
 #MainParagraph {
   width: 400px;
 }
+
+#Column1 {
+  margin: auto;
+}
