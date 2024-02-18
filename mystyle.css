@@ -13,5 +13,7 @@ a {
 
 #P {
   font-size: 18px;
-  marign-left: 15px;
+  marign-left: 80px;
+  margin-right: 80px;
+  border: 15px black;
 }
