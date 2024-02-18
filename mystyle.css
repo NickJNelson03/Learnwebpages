@@ -23,5 +23,6 @@ body {
 }
 
 #Column1 {
-  border: 20px solid black;
+  font-size: 30px;
+  font-weight: bold;
 }
