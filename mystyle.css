@@ -14,6 +14,12 @@ body {
 
 }
 
+.Columns {
+  position: absolute;
+  top: 400px;
+  right: 530px;
+}
+
 #MainParagraph {
   width: 400px;
 }
@@ -24,9 +30,6 @@ body {
   margin-left: 70px;
   margin-bottom: 5px;
   margin-top: 70px;
-  position: absolute;
-  top: 400px;
-  right: 530px;
 }
 
 #Image1 {
