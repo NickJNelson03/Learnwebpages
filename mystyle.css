@@ -66,12 +66,11 @@ body {
   margin-top: 15px;
 }
 
-.navbar .navbar-collapse {
-  text-align: center;
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
 }
 
-.navbar .navbar-nav {
-  display: inline-block;
-  float: none;
-  vertical-align: top;
+.navbar .navbar-collapse {
+    text-align: center;
 }
