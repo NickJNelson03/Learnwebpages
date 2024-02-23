@@ -65,3 +65,32 @@ body {
   margin-left: 90px;
   margin-top: 15px;
 }
+
+.navbar-center {
+    text-align: center;
+}
+
+.navbar-center .nav-navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+/* Override Bootstrap's default nav-bar behavior */
+.navbar-nav>li {
+    display: inline-block;
+    float: none;
+}
+
+/* Center the navbar */
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+/* Adjust the navbar-nav alignment */
+.navbar-nav {
+    float: none;
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
+}
+
