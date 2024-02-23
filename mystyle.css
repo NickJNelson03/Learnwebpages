@@ -85,5 +85,6 @@
   transform: translate(-50%, -50%);
 }
 
-.Main, .Strengths {
-  text-align: left;
+.Strengths {
+  margin: 200px;
+}
