@@ -81,12 +81,3 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-
-.navbar .navbar-nav {
-    display: inline-block;
-    float: none;
-}
-
-.navbar .navbar-collapse {
-    text-align: center;
-}
