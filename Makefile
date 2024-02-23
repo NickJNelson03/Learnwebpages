@@ -1,7 +1,7 @@
-# Makefile for deploying HTML and CSS files to /var/www/html/learnnbs/
+# Makefile for deploying HTML and CSS files to /var/www/html/Learnwebpages/learnnbs/
 
 # Define the target directory for deployment
-TARGET_DIR = /var/www/html/learnnbs/
+TARGET_DIR = /var/www/html/Learnwebpages/learnnbs/
 
 # Define source files
 HTML_FILES = classes.html myPage.html resume.html
