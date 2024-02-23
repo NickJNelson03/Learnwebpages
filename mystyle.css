@@ -65,3 +65,15 @@ body {
   margin-left: 90px;
   margin-top: 15px;
 }
+
+.circle {
+  width: 100px; /* Diameter of the circle */
+  height: 100px; /* Diameter of the circle */
+  background-color: lightblue; /* Light blue color */
+  border-radius: 50%; /* Makes the div circular */
+  
+  /* Centering the circle */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
