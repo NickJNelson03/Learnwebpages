@@ -83,23 +83,3 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-
-  .social-links {
-  text-align: center;
-  position: absolute;
-  width: 100%;
-  top: calc(50% + 150px); 
-}
-
-.social-links a {
-  margin: 0 10px; 
-  text-decoration: none; 
-  color: #000; 
-  font-size: 16px; 
-}
-
-
-.social-links a:hover {
-  text-decoration: underline; 
-}
-
