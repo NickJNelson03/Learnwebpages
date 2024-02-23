@@ -65,12 +65,3 @@ body {
   margin-left: 90px;
   margin-top: 15px;
 }
-
-.navbar .navbar-nav {
-    display: inline-block;
-    float: none;
-}
-
-.navbar .navbar-collapse {
-    text-align: center;
-}
